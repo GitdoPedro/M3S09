@@ -1,0 +1,11 @@
+S - Single Responsibility Principle (Princípio da Responsabilidade Única): Cada classe deve ter uma única responsabilidade, ou seja, uma razão para ser modificada. Isso ajuda a manter o código mais organizado e facilita a sua compreensão.
+
+O - Open-Closed Principle (Princípio Aberto-Fechado): As entidades de software (classes, módulos, funções etc.) devem estar abertas para extensão, mas fechadas para modificação. Isso significa que você pode estender o comportamento de uma entidade sem precisar alterar o seu código existente.
+
+L - Liskov Substitution Principle (Princípio da Substituição de Liskov): Objetos de uma classe derivada devem poder ser substituídos pelos objetos da classe base sem que isso quebre o funcionamento do programa. Isso ajuda a garantir a consistência e a corretude do código.
+
+I - Interface Segregation Principle (Princípio da Segregação de Interfaces): As interfaces específicas devem ser preferidas em vez de interfaces gerais. Isso significa que as interfaces devem ser projetadas para serem coesas e conter apenas os métodos necessários para cada contexto de uso.
+
+D - Dependency Inversion Principle (Princípio da Inversão de Dependência): Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Isso incentiva o uso de interfaces e a inversão da dependência, o que torna o código mais flexível, desacoplado e reutilizável.
+
+Em suma, o SOLID é um conjunto de princípios que promovem um design de software mais limpo, modular e flexível. Seguir esses princípios ajuda a criar um código mais sustentável, fácil de entender, modificar e testar.
