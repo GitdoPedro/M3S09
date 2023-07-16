@@ -1,0 +1,6 @@
+O SRP (Princípio da Responsabilidade Única) afirma que uma classe deve ter apenas uma responsabilidade.
+Em resumo, isso significa que uma classe deve ter um único motivo para ser modificada.
+
+Um exemplo que segue o SRP é uma classe EmailSender que é responsável apenas por enviar e-mails.
+Essa classe não deve assumir outras tarefas, como validação de e-mails ou formatação de conteudo.
+Cada responsabilidade deve ser separada em classes distintas, resultando em um código mais modular e fácil de entender.
