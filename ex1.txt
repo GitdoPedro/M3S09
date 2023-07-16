@@ -1,0 +1,7 @@
+
+Explique o qual o objetivo do Clean Code ser criado?
+Como aplicar boas práticas conforme o Clean Code?
+
+O Clean Code é a prática de escrever código claro e organizado. Isso torna o código mais fácil de entender, modificar e manter. 
+Algumas dicas para escrever código limpo incluem dar nomes significativos, manter funções curtas e focadas, evitar comentários desnecessários e escrever testes para garantir que o código funcione corretamente.
+Essas práticas ajudam a criar um código melhor e mais eficiente.
