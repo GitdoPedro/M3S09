@@ -1,0 +1,4 @@
+O padrão Command é um padrão de projeto que encapsula solicitações como objetos.
+Ele permite que você desacople o objeto que envia uma solicitação do objeto que a executa.
+Isso possibilita parametrizar operações, enfileirar solicitações e oferecer suporte a operações desfazer e refazer.
+Em resumo, o padrão Command transforma uma solicitação em um objeto, permitindo maior flexibilidade e gerenciamento das operações.
