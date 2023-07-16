@@ -1,0 +1,4 @@
+O padrão Adapter permite que objetos com interfaces incompatíveis trabalhem juntos.
+Ele atua como uma camada intermediária, traduzindo a interface de um objeto para outra interface esperada pelo cliente. 
+A funcao do Adapter é permitir a integração entre objetos incompatíveis sem modificar o código existente, facilitando a reutilização e a interoperabilidade de componentes.
+Em resumo, o Adapter adapta a interface de um objeto para torná-lo compatível com outros objetos.
