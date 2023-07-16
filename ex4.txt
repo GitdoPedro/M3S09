@@ -1,0 +1,13 @@
+Design Patterns, ou Padrões de Projeto, são soluções reutilizáveis para problemas comuns encontrados no desenvolvimento de software. Eles são soluções comprovadas e testadas que foram desenvolvidas ao longo do tempo por especialistas em engenharia de software.
+
+Os padrões de projeto ajudam os desenvolvedores a criar um código mais estruturado, flexível e de fácil manutenção. Eles fornecem abordagens e diretrizes para resolver problemas recorrentes, permitindo que os desenvolvedores aproveitem as melhores práticas e evitem reinventar a roda.
+
+Existem vários catálogos de Design Patterns, sendo os mais conhecidos:
+
+Padrões de Criação (Creational Patterns): Esses padrões estão relacionados à criação de objetos. Exemplos incluem Singleton, Factory Method, Abstract Factory, Builder e Prototype.
+
+Padrões Estruturais (Structural Patterns): Esses padrões lidam com a composição de classes e objetos para formar estruturas maiores. Alguns exemplos são Adapter, Decorator, Proxy, Composite e Bridge.
+
+Padrões Comportamentais (Behavioral Patterns): Esses padrões são focados nos comportamentos e interações entre objetos. Exemplos incluem Observer, Strategy, Template Method, State e Command.
+
+Padrões de Arquitetura (Architectural Patterns): Esses padrões abordam problemas em níveis mais abrangentes, como a arquitetura de um sistema. Exemplos populares são MVC (Model-View-Controller), MVVM (Model-View-ViewModel) e Hexagonal Architecture.
